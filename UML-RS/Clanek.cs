@@ -31,7 +31,7 @@ namespace UMLRS{
         }
         
         public override String ToString(){
-            return "null";
+            return ($"{nadpisClanku}\n{prefixClanku}\n{textClanku}\n{autorClanku.ToString()}");
         } 
     }
 }
