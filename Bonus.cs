@@ -4,7 +4,7 @@ namespace UMLRS{
         void Vytvorit();
         void Smazat();
         void Editovat();
-        
+        string ToString();
            
         
     }
