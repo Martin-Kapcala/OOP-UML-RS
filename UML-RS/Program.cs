@@ -10,8 +10,6 @@
             
             Console.WriteLine(clanek1.ToString());
 
-           // Console.WriteLine(clanek1.AutorClanku);
-
         }
     }
 }

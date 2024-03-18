@@ -4,8 +4,8 @@ namespace UMLRS{
         int Bonus{
             get;
         }
-        void PridatBody();
-        void UbratBody();
+        void PridatBody(int body);
+        void UbratBody(int body);
         void ResetBody();
         string ToString();
         
